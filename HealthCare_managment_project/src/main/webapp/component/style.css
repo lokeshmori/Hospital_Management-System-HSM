@@ -1,0 +1,206 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #333;
+    
+      
+           
+}
+
+
+/* Hero Section */
+.hero {
+	 
+   background-color: #efeee9;
+    background-size: cover;
+    background-position: center;
+    color: rgba(0,0,0,0.8);
+    text-align: center;
+    padding: 110px 20px;
+}
+
+.hero-content h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.hero-content p {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.btn-primary {
+    background-color: #3a8cef;
+    color: white;
+    padding: 15px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Services Section */
+.services {
+    padding: 60px 20px;
+    text-align: center;
+    
+     background-color: #eaeaea ;
+}
+
+.services h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+}
+
+.service-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card {
+     background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 300px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 40px 20px;
+    text-align: left;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.footer-section {
+    flex: 1;
+    margin: 10px;
+    min-width: 250px;
+}
+
+.footer-section h3 {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.footer-section p, .footer-section ul, .footer-section a {
+    font-size: 14px;
+    line-height: 1.8;
+    color: #bbb;
+}
+
+.footer-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    color: #bbb;
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    color: #fff;
+}
+
+.social-icons a {
+    margin-right: 15px;
+}
+
+.social-icons img {
+    width: 24px;
+    height: 24px;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+    border-top: 1px solid #444;
+    padding-top: 20px;
+    color: #bbb;
+}
+
+.serv{
+	
+	   background-color:#efeee9 ;
+    background-size: cover;
+    background-position: center;
+    color: rgba(0,0,0,0.8);
+    text-align: center;
+    padding: 25px 20px;
+    
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.serv-cards{
+	
+	 display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    text-align: center;
+    padding: 25px 20px;
+   
+    flex-wrap: wrap;
+    
+}
+.cards{
+	
+	 background-color: white;
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 450px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    transition: transform 0.2s;
+	
+}
+
+.cards:hover {
+    transform: translateY(-10px);
+}
+
+.d-img{
+	
+	 padding: 15px 5px;
+	 background-color: white; 
+	 
+	 
+	
+}
+
+
+
+
