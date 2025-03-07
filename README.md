@@ -1,4 +1,4 @@
-# MedTech_Solutions-HSM-
+# Hospital Management System
 Hospital Management System is a Java full stack Project that leverages advanced Java technologies like Servlet, JSP, and JDBC. This system is designed to manage various aspects of hospital operations and reduce administrative tasks , including patient records, appointment scheduling, and administrative tasks.
 
 # Key Features:
