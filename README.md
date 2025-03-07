@@ -3,7 +3,7 @@ Hospital Management System which is built using java technologies .This Web appl
 
 # Key Features:
 
-<h4>login </h4>
+<h4>login , logout </h4>
 <h4>Admin’s DashBoard </h4>
 <h4>Patient’s DashBoard</h4>
 <h4>Doctor’s DashBoard</h4>
@@ -11,11 +11,13 @@ Hospital Management System which is built using java technologies .This Web appl
 <h4>Booking Appointment</h4>
 <h4>Choosing Doctor</h4>
 
-<h4> 1   Patient Record Management:</h4> Allows the efficient handling of patient data, storing personal information, medical history, and treatment records in a structured manner.
+## Core Functionalities:
 
-<h4> 2   Appointment Scheduling:</h4> Facilitates the scheduling and management of appointments between doctors and patients, ensuring a streamlined booking process and reducing scheduling conflicts.
+<h4>    Patient Record Management:</h4> Allows the efficient handling of patient data, storing personal information, medical history, and treatment records in a structured manner.
 
-<h4> 3   Administrative Management:<h4></h4> Supports hospital administrators in overseeing day-to-day activities, managing doctor schedules, generating reports, and organizing hospital resources.
+<h4>   Appointment Scheduling:</h4> Facilitates the scheduling and management of appointments between doctors and patients, ensuring a streamlined booking process and reducing scheduling conflicts.
+
+<h4>   Administrative Management:<h4></h4> Supports hospital administrators in overseeing day-to-day activities, managing doctor schedules, generating reports, and organizing hospital resources.
 
 
 # Technologies Used:
@@ -26,7 +28,7 @@ Hospital Management System which is built using java technologies .This Web appl
 <h4>JDBC (Java Database Connectivity):</h4> Manages database interactions, allowing CRUD (Create, Read, Update, Delete) operations for various modules like patient data, appointments, and staff records.
 
 
-# Requirements :
+# Requirements Tools :
 
 <h4>Java [JDK 8+] </h4>
 <h4>Eclipse</h4>
